@@ -1,0 +1,9 @@
+train_dataset_score: 0.03929
+test_dataset_score: 0.13319
+time: 7.351786
+train_dataset_score: 0.02946
+test_dataset_score: 0.04475
+time: 7.178320
+train_dataset_score: 0.02794
+test_dataset_score: 0.03699
+time: 7.061969
